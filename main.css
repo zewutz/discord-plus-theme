@@ -8,7 +8,7 @@
 */
 
 :root {
-    --rgb-highlight: rgb(98, 0, 209);
+    --rgb-highlight: 98, 0, 209;
     --highlight: rgb(var(--rgb-highlight));
     --background: rgb(36, 36, 36);
     --close-button: var(--dnd-color) !important;
